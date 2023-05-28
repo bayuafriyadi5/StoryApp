@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silahkan masukan data anda dahulu</string>
+    <string name="title_login_page">Siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="clickhere">Klik disini</string>
+    <string name="already_have_account">Belum punya akun?</string>
+    <string name="error_empty_password">Silahkan masukan password</string>
+    <string name="error_password_more_8">Password harus terdi lebih dari 8</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">Tambahkan Unggahan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="date">May 24, 2023</string>
+    <string name="desc">Deskripsi</string>
+    <string name="post_pictures">Unggah Gambar</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="whats_happening">Apa yang ada dipikiranmu?</string>
+    <string name="add_desc">Silahkan tambahkan deskripsi</string>
+</resources>

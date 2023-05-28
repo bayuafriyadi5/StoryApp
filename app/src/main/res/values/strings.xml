@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please fill out your information first</string>
+    <string name="title_login_page">Ready to share your stories?</string>
+    <string name="name">Name</string>
+    <string name="clickhere">click here</string>
+    <string name="already_have_account">Don\'t have an account yet?</string>
+    <string name="error_empty_password">Please insert your password</string>
+    <string name="error_password_more_8">Password must more than 8 character</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="change_language">Change Language</string>
+    <string name="date">May 24, 2023</string>
+    <string name="desc">description</string>
+    <string name="post_pictures">Post Pictures</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="whats_happening">What\'s happening?</string>
+    <string name="add_desc">Please add description</string>
+    <string name="description_cannot_empty">Description cannot be empty</string>
+    <string name="image_posted">Uploaded</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Please try again</string>
+    <string name="turn_on_location">Turn on Location</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="select_image">Please select an image</string>
+</resources>
